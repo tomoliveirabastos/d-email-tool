@@ -1,6 +1,6 @@
 # email-tool
 
-run dub D to install
+run dub D to install all dependencies
 > $: dub
 
 use dub run to execute and compile this tool
