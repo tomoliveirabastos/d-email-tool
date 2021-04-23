@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/watchprocess
+watchprocess.so
+watchprocess.dylib
+watchprocess.dll
+watchprocess.a
+watchprocess.lib
+watchprocess-test-*
+*.exe
+*.o
+*.obj
+*.lst

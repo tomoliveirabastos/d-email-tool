@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"washington"
+	],
+	"copyright": "Copyright © 2021, washington",
+	"dependencies": {
+		"arsd-official": "~>9.4.0",
+		"arsd-official:email": "~>9.4.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "watchprocess"
+}
